@@ -1,0 +1,14 @@
+.perviy{
+    width: 500px;
+    height: 200px;
+    border: 10px solid green;
+}
+.vtoroy{
+    width: 600px;
+    height: 300px;
+    border: 10px solid yellow;
+    
+}
+p{
+    margin-left: 20px;
+}

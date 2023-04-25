@@ -1,0 +1,28 @@
+*{
+    margin-bottom: 5px;
+}
+
+.perviy{
+    border: 3px solid red;
+}
+.vtoroy{
+    border: 3px double red;
+}
+.tretiy{
+    border: 3px groove red
+}
+.cetvertiy{
+    border: 3px ridge red;
+}
+.patiy{
+    border: 3px inset red;
+}
+.sectoy{
+    border: 3px outset red;
+}
+.sedmoy{
+    border: 3px dashed red;
+}
+.vosmoy{
+    border: 3px dotted red;
+}
